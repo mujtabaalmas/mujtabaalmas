@@ -40,20 +40,12 @@
 <p align="center">
   <a href="https://github.com/mujtabaalmas/Python-Django-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mujtabaalmas&repo=Python-Django-API&theme=github_dark&hide_border=true" height="130"/></a>
   <a href="https://github.com/mujtabaalmas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mujtabaalmas&repo=Python-backend-fastapi&theme=github_dark&hide_border=true" height="130"/></a>
+  <a href="https://github.com/mujtabaalmas"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mujtabaalmas&repo=AI-TEXT-GAME-FULL_STACK&theme=github_dark&hide_border=true" height="130"/></a>
 
 </p>
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/mujtabaalmas"><img src="https://img.shields.io/badge/LinkedIn-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://github.com/mujtabaalmas"><img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
----
-
-⭐️ From [Mujtaba Almas](https://github.com/mujtabaalmas)
 ## 🏆 Certifications
 - Completed [OpenEDG Python Institute Certificate of Completion](https://www.linkedin.com/learning/certificates/5bfaac3738269535451309a50bc8932c35e701db4877167c1669b10d4d542ccc)
 - Completed [Certified Entry Level Python Programmer (PCEP-30-02)](https://www.linkedin.com/learning/certificates/ac8c13f1f3f6ba57bca3123fbbe28e3b0c5625afdf5d7a56ce9b5d14d517c7be)
