@@ -28,14 +28,6 @@
 
 ---
 
-## 📈 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mujtabaalmas&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mujtabaalmas&layout=compact&theme=github_dark&hide_border=true&hide=mako" height="160"/>
-</p>
-
----
-
 ## 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/mujtabaalmas/Python-Django-API"><img src="https://github-readme-stats.vercel.app/api/pin/?username=mujtabaalmas&repo=Python-Django-API&theme=github_dark&hide_border=true" height="130"/></a>
